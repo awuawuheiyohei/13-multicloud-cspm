@@ -42,7 +42,7 @@ WEB_PORT=5040 python main.py serve
 
 ## 📝 PRD 来源
 
-本项目基于 `/Users/jiangwenrui/Downloads/mass/Interview/Security_and_GRC_14_Projects_Plan/13_MultiCloud_CSPM_CIS_Compliance_as_Code.md` 完整规划。
+本项目基于 `/Users/jiangwenrui/Downloads/mass/25-Interview/Security_and_GRC_14_Projects_Plan/13_MultiCloud_CSPM_CIS_Compliance_as_Code.md` 完整规划。
 
 ## 📄 License
 
